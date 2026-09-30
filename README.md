@@ -2,4 +2,4 @@
 
 # Mini(on) Games
 
-Minion Themed NDS Minigame collection, developed using DevKitPro and DSGameMaker.
+Minion Themed NDS Minigame collection, developed using [DevKitPro](https://devkitpro.org/) and [DSGameMaker](https://digitaldesigndude.github.io/DSGM-Resource-Site/index.html).
