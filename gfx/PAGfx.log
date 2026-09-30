@@ -1,0 +1,15 @@
+PAGfx Converter v0.10 -- by Mollusk -- resurrected by fincs -- forum.palib.info
+If you have suggestions, problems or anything please come to the PAlib forums
+
+Converting PAGfx.ini
+Transparent Color: Magenta
+
+1 backgrounds:
+  sort_top_game_over : EasyBg, 256x192, Pal: sort_top_game_over_Pal, 515 tiles -> sort_top_game_over_Tiles and sort_top_game_over_Map
+
+1 palettes:
+  sort_top_game_over_Pal, 198 colors
+
+Converted in 0 minutes and 0 seconds
+
+Finished!
